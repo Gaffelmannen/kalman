@@ -1,4 +1,4 @@
-# Kalman filterin playground
+# Kalman filtering playground
 A Kalman Filter is an algorithm that estimates the state of a dynamic system by combining predictions with noisy measurements to produce a more accurate estimate over time.
 
 ## Installation
